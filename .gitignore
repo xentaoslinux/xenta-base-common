@@ -1,0 +1,7 @@
+build-stamp
+configure-stamp
+debian/*.log
+debian/*.substvars
+debian/files
+debian/xenta-base-common
+

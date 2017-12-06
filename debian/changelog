@@ -1,0 +1,7 @@
+xenta-base-common (1.3.1) arok; urgency=medium
+
+  * Membuat Adjustments Base Sistem Xenta OS
+    Live Sistem Casper /etc/casper.conf
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Thu, 07 Dec 2017 01:11:28 +0700 
+
